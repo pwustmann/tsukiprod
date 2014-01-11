@@ -1,0 +1,17 @@
+Git Bash
+git config --global user.name "Votre nom"
+git config --global user.email "Votre mail"
+
+Git Gui
+Cloner nouveau dépôt
+Emplacement : https://github.com/pwustmann/tsukiprod.git
+Cible : C:/wamp/www/tsukiprod (le dossier ne doit pas déjà exister)
+
+Ajouter des ou modifier des fichiers en local
+Puis dans le dossier Clic droit -> Git Gui
+Git Gui s'ouvre avec la liste des fichiers nouveaux ou modifiés
+Commit -> Indexer
+Commiter
+Pousser
+
+
